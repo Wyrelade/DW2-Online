@@ -1,30 +1,21 @@
-# Accounts, tamers and 35 looks
+# Accounts and tamers
 
 *2026-10-11*
 
-The title screen has a new row: **ONLINE**. It opens a panel for logging in or making an account,
-drawn over the original title in the game's own style.
+The title screen has a new **ONLINE** entry. It opens a panel to log in or create an account.
 
 ![Log in and new account](../misc/screenshots/new-account.jpg)
 
-Behind it is a real server: a gateway on Linux, a PostgreSQL database, an encrypted connection
-(TLS 1.3), and passwords stored only as Argon2id hashes. Wrong passwords slow down further tries
-from the same place, without locking you out of your own account.
+The connection to the server is encrypted, and passwords are stored as hashes.
 
-## Your tamer
+After the first login you create your tamer:
 
-After the first login you make your tamer: a name, a partner, a Guard Team and a look.
+- a name
+- a partner: Agumon, Patamon or DemiDevimon
+- a Guard Team: Gold Hawk, Blue Falcon or Black Sword
+- one of 35 looks
 
 ![Create your tamer](../misc/screenshots/tamer.jpg)
 
-- **Partners:** Agumon (Vaccine), Patamon (Data) or DemiDevimon (Virus), the three rookies of the
-  original start.
-- **Guard Teams:** Gold Hawk, Blue Falcon or Black Sword. The team is your faction for chat and
-  ladders; it gives no power.
-- **Looks:** 35 tamer looks made from the people of Digital City, shown in 3D next to your
-  partner. Looks that never had a running animation in the original game borrow the player's run,
-  so everyone moves the same way.
-
-The server then builds your start profile from the game's own data: your partner, the first
-Digi-Beetle, and the city as it is after the opening. "Enter the city" downloads it and you walk
-out of the Main Gate.
+Then the server sends your start profile, with your partner and your first Digi-Beetle, and you
+enter Digital City.
