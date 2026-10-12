@@ -127,8 +127,9 @@ What DW2 Online is meant to be. These are design decisions, not finished feature
 - **Guard Teams are your faction.** A badge, team chat, a team ladder and seasonal team rewards.
   They give no power.
 - **PvP.** Live turn based battles on the original battle rules, defence teams and seasons.
-- **Tamer level.** You gain tamer EXP from battles, bosses and domain clears. The level is
-  progress and cosmetics, it locks nothing.
+- **Tamer level.** You gain tamer EXP from battles, bosses and domain clears. Higher levels
+  unlock cosmetics such as profile pictures. The level never locks gameplay: every domain is open
+  to every tamer.
 - **Free.** No shop, no paid items.
 - **Fair play.** The server decides every battle, drop and roll; the client only shows them.
 
