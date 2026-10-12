@@ -33,14 +33,6 @@
   <img src="misc/screenshots/new-account.jpg" alt="Log in and new account" width="32%">
   <img src="misc/screenshots/tamer.jpg" alt="Create your tamer" width="32%">
   <img src="misc/screenshots/hub-2.jpg" alt="Other tamers in the city" width="32%">
-  <br>
-  <img src="misc/screenshots/new-gaia.jpg" alt="Main Gate" width="32%">
-  <img src="misc/screenshots/dna.jpg" alt="DNA digivolution" width="32%">
-  <img src="misc/screenshots/digi-beetle.jpg" alt="Tamer status and Digi-Beetle" width="32%">
-  <br>
-  <img src="misc/screenshots/battle.jpg" alt="Battle" width="32%">
-  <img src="misc/screenshots/terra-force.jpg" alt="Terra Force" width="32%">
-  <img src="misc/screenshots/battle-2.jpg" alt="Battle" width="32%">
 </p>
 
 <p align="center"><sub>
