@@ -26,6 +26,12 @@
 </p>
 
 <p align="center">
+  <img src="misc/screenshots/stress-test-49.gif" alt="Stress test: 49 bot tamers walking in Digital City" width="97%">
+  <br>
+  <sub>Stress test: 49 bot accounts walking in Digital City.</sub>
+</p>
+
+<p align="center">
   <img src="misc/screenshots/hub.jpg" alt="Tamers in the Main Gate of Digital City" width="97%">
 </p>
 
